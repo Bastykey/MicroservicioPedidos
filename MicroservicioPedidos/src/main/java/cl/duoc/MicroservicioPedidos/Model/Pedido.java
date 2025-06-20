@@ -33,15 +33,3 @@ public class Pedido {
     @Column(name = "DETALLE", length = 255)
     private String detalle;
 }
-
-//
-//@Entity
-//@Table(name = "PEDIDO")
-//@Data
-//@AllArgsConstructor
-//@NoArgsConstructor
-//
-//public class Pedido {
-//
-//
-//}
